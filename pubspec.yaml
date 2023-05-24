@@ -13,7 +13,7 @@ dependencies:
   cupertino_icons: ^1.0.3
   flutter_webrtc: ^0.9.11
   shared_preferences: ^2.0.7
-  http: ^0.13.3
+  http: ^0.13.0
   path_provider: ^2.0.2
   image_picker: ^0.8.6
   image_gallery_saver: ^1.7.1
